@@ -53,3 +53,13 @@ do {
     print(error.localizedDescription)
 }
 ```
+
+## Process Overview
+
+To create Number Place
+
+1. Prepare a board fulfilled numbers from 1 to 9 according to the rules of Number Place.
+1. Create the required number of holes on the board.
+1. Check to see if there is a unique solution.
+
+
