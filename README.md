@@ -20,6 +20,8 @@ Number Place Maker is a library for generating random Number Place Puzzle.
 Create an instance of NumberPlaceMaker and call the makeNumberPlace(holes:) method with the required number of holes. It may not be possible to create Number Place. Use NumberPlaceSolver to solve Number Place if needed. 
 
 ```Swift
+import NumberPlaceMaker
+
 // To create Number Place
 let maker = NumberPlaceMaker()
     
