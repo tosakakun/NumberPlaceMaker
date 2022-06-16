@@ -12,7 +12,7 @@ Number Place Maker is a library for generating random Number Place Puzzle.
 ### Swift Package Manager
 
 1. In Xcode, select File > Add Packages....
-1. Spacify the repository
+1. Spacify the repository https://github.com/tosakakun/NumberPlaceMaker.git
 1. Spacify options and then click Add Package.
 
 ## Usage
