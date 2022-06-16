@@ -62,7 +62,7 @@ To create Number Place
 1. Create the required number of holes on the board.
 1. Check to see if there is a unique solution.
 
-This library attempts to create Number Place in a straightforward manner and may not be able to create it. Adjusting the parameter for the number of attempts in the NumberPlaceMaker initializer may improve this.
+This library attempts to create Number Place in a straightforward manner and may not be able to create it. Adjusting some parameters for the number of attempts in the NumberPlaceMaker initializer may improve this.
 
 ## License
 
