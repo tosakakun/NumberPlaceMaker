@@ -1,6 +1,6 @@
 # Number Place Maker
 
-Number Place Maker is a library for generating random Number Place Puzzle.
+Number Place Maker is a library for generating random Number Place Puzzle in Swift.
 
 ## Requirement
 
